@@ -327,7 +327,7 @@ img {
 
 @keyframes spring-scale {
   0% {
-    transform: scale(1);
+    transform: scale(0);
     height: 0px;
     width: 0px;
     background-color: rgba(255, 255, 255, 0.808);
@@ -335,7 +335,7 @@ img {
   }
 
   60% {
-    transform: scale(1.1);
+    transform: scale(0.3);
     height: 420px;
     width: 320px;
     background-color: rgba(255, 255, 255, 0.808);
@@ -343,7 +343,7 @@ img {
   }
 
   79% {
-    transform: scale(0.7);
+    transform: scale(0.6);
     height: 420px;
     width: 320px;
   }
