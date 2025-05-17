@@ -331,28 +331,9 @@ img {
     height: 0px;
     width: 0px;
     background-color: rgba(255, 255, 255, 0.808);
-    border-radius: 2000px;
-  }
-
-  60% {
-    transform: scale(0.3);
-    height: 420px;
-    width: 320px;
-    background-color: rgba(255, 255, 255, 0.808);
     border-radius: 3000px;
   }
 
-  79% {
-    transform: scale(0.6);
-    height: 420px;
-    width: 320px;
-  }
-
-  80% {
-    transform: scale(0.9);
-    height: 420px;
-    width: 320px;
-  }
 
   100% {
     transform: scale(1.2);
